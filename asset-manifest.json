@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Afnan-website/static/css/main.89d05b36.chunk.css",
+    "main.js": "/Afnan-website/static/js/main.4476eabd.chunk.js",
+    "main.js.map": "/Afnan-website/static/js/main.4476eabd.chunk.js.map",
+    "runtime-main.js": "/Afnan-website/static/js/runtime-main.28e12ffa.js",
+    "runtime-main.js.map": "/Afnan-website/static/js/runtime-main.28e12ffa.js.map",
+    "static/js/2.5ac04055.chunk.js": "/Afnan-website/static/js/2.5ac04055.chunk.js",
+    "static/js/2.5ac04055.chunk.js.map": "/Afnan-website/static/js/2.5ac04055.chunk.js.map",
+    "index.html": "/Afnan-website/index.html",
+    "static/css/main.89d05b36.chunk.css.map": "/Afnan-website/static/css/main.89d05b36.chunk.css.map",
+    "static/js/2.5ac04055.chunk.js.LICENSE.txt": "/Afnan-website/static/js/2.5ac04055.chunk.js.LICENSE.txt",
+    "static/media/Hero.22acab75.mp4": "/Afnan-website/static/media/Hero.22acab75.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28e12ffa.js",
+    "static/js/2.5ac04055.chunk.js",
+    "static/css/main.89d05b36.chunk.css",
+    "static/js/main.4476eabd.chunk.js"
+  ]
+}
